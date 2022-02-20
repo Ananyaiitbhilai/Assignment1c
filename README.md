@@ -1,6 +1,6 @@
-# Medical Diagonis webApp
-## Our code
-we took the dataset from kaggel, Disease Symptom Dataset, then we filled nan in the columns were no symptom was present, then our dataset looks like this:
+# Medical Diagonis webApp 🌡
+## Code 💻
+We took the dataset from kaggel, Disease Symptom Dataset, then we filled nan in the columns were no symptom was present, then our dataset looks like this:
 ![](https://github.com/Ananyaiitbhilai/Assignment1c/blob/main/images/Screenshot%202022-02-21%20at%2012.39.05%20AM.png)<br>
 
 We printed the unique symptoms from symptom-severity csv file and applied label binarizer to each symptom. Here we used label binarzer, to convert each symptom into a binary matrix, e.g. itching refers to [1,0,0,.....,0] , skin_rashes refers to [0,1,0,0,.....,0] vector. We have 132 symptoms in the dataset. This implies we have length of array as 132.
@@ -21,5 +21,11 @@ We used inbuit decision tree function and saved the trained model in a pickel fi
 Here even if the order of symptoms are changed i.e. order is shufffled, same disease is predicted. for e.g.
 ![](https://github.com/Ananyaiitbhilai/Assignment1c/blob/main/images/Screenshot%202022-02-21%20at%201.21.18%20AM.png)<br>
 ![](https://github.com/Ananyaiitbhilai/Assignment1c/blob/main/images/Screenshot%202022-02-21%20at%201.24.51%20AM.png)<br>
+
+## WebApp📱
+Are you concerned about your health, we present the one stop easy solution to check for the disease you might be suffering from, at your finger tips. Our model has an accuracy of 100%. You have to enter the symptoms you are having, based on a decision tree, more symptoms you enter, more is the tree traversed and you get more precise prediction of disease.
+So what are you waiting for, try it right now✌🏻
+Link for our WebApp:- <>
+<ss>
 
 

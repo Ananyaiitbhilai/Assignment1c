@@ -23,8 +23,8 @@ Here even if the order of symptoms are changed i.e. order is shufffled, same dis
 ![](https://github.com/Ananyaiitbhilai/Assignment1c/blob/main/images/Screenshot%202022-02-21%20at%201.24.51%20AM.png)<br>
 
 ## WebApp📱
-Are you concerned about your health, we present the one stop easy solution to check for the disease you might be suffering from, at your finger tips. Our model has an accuracy of 100%. You have to enter the symptoms you are having, based on a decision tree, more symptoms you enter, more is the tree traversed and you get more precise prediction of disease.
-So what are you waiting for, try it right now✌🏻
+Are you concerned about your health, we present the one stop easy solution to check for the disease you might be suffering from, at your finger tips. Our model has an accuracy of 100%. You have to enter the symptoms you are having, based on a decision tree, more symptoms you enter, more is the tree traversed and you get more precise prediction of disease. <br>
+So what are you waiting for, try it right now✌🏻 <br>
 Link for our WebApp:- <>
 <ss>
 
